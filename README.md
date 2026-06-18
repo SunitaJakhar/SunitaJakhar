@@ -1,5 +1,9 @@
 ## Hi there! It's Sunita Jakhar 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=sunitajakhar&label=Profile%20views&color=0e75b6&style=flat)
+
+Welcome to my GitHub profile!
+
 🚀 About Me
 
 I am an aspiring Data Science and Data Analytics professional focused on building strong foundations in data-driven decision-making, machine learning, and modern AI systems. I enjoy working with real-world datasets to extract meaningful insights, develop predictive models, and solve business problems through analytics. My goal is to grow into a well-rounded data professional by combining statistical thinking, machine learning techniques, and scalable data engineering practices.

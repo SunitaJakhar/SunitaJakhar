@@ -13,15 +13,15 @@ I am passionate about learning and keeping up with the latest developments in da
 
 * Machine Learning & AI: Developing predictive models and intelligent systems
 * Big Data Analytics: Working with large-scale data using distributed tools
-* Generative AI: Exploring LLMs, RAG systems, and real-world AI applications
 * Business Analytics: Turning data into actionable insights for decision-making
 * Data Visualization: Designing clear and impactful dashboards and reports
+* Generative AI: Exploring LLMs, RAG systems, and real-world AI applications
 
 
 🛠 Skills
 
-* Programming & Data Handling: Python, SQL, R, Pandas, NumPy
+* Programming & Data Handling: Python, SQL, Pandas, NumPy
 * Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, Keras, NLTK
-* Data Visualization & BI: Tableau, Power BI, Excel, Matplotlib, Seaborn, A/B Testing
-* Big Data & Cloud: Spark, Hadoop, Databricks, AWS, Snowflake, Git
+* Data Visualization & BI: Tableau, Power BI, Excel, Matplotlib, Seaborn
+* Big Data & Cloud: Spark, Hadoop, Databricks, AWS, Snowflake
 

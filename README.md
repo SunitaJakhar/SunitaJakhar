@@ -8,9 +8,13 @@ I am an aspiring Data Science and Data Analytics professional focused on buildin
 🧠 Interests
 
 Machine Learning & AI: Developing predictive models and intelligent systems
+
 Big Data Analytics: Working with large-scale data using distributed tools
+
 Generative AI: Exploring LLMs, RAG systems, and real-world AI applications
+
 Business Analytics: Turning data into actionable insights for decision-making
+
 Data Visualization: Designing clear and impactful dashboards and reports
 
 

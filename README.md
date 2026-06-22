@@ -1,6 +1,5 @@
 ## Hi there! It's Sunita Jakhar 👋 Welcome to my GitHub profile ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=SunitaJakhar&label=Profile%20views&color=0e75b6&style=flat)
 
 
 🚀 About Me
